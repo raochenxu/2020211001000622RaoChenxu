@@ -11,7 +11,7 @@
     </context-param>
     <context-param>
         <param-name>url</param-name>
-        <param-value>jdbc:mysql://localhost/jsp?serverTimezone=UTC</param-value>
+        <param-value>jdbc:mysql://114.132.201.198:3306/jsp?serverTimezone=UTC</param-value>
     </context-param>
     <context-param>
         <param-name>username</param-name>
@@ -19,7 +19,7 @@
     </context-param>
     <context-param>
         <param-name>password</param-name>
-        <param-value>123456</param-value>
+        <param-value>root</param-value>
     </context-param>
 
 
@@ -49,7 +49,7 @@
 <!--    </servlet>-->
 <!--    <servlet>-->
 <!--        <servlet-name>JDBCDemoServlet</servlet-name>-->
-<!--        <servlet-class>com.raochenxu.JDBCServletContextListener</servlet-class>-->
+<!--        <servlet-class>com.liuteng.JDBCServletContextListener</servlet-class>-->
 <!--        <init-param>-->
 <!--            <param-name>driver</param-name>-->
 <!--            <param-value>com.microsoft.sqlserver.jdbc.SQLServerDriver</param-value>-->

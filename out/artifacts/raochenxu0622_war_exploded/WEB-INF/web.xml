@@ -49,7 +49,7 @@
 <!--    </servlet>-->
 <!--    <servlet>-->
 <!--        <servlet-name>JDBCDemoServlet</servlet-name>-->
-<!--        <servlet-class>com.raochenxu.JDBCServletContextListener</servlet-class>-->
+<!--        <servlet-class>com.raochenxuxu.JDBCServletContextListener</servlet-class>-->
 <!--        <init-param>-->
 <!--            <param-name>driver</param-name>-->
 <!--            <param-value>com.microsoft.sqlserver.jdbc.SQLServerDriver</param-value>-->
