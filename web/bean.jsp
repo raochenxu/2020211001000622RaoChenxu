@@ -16,7 +16,7 @@
     <jsp:useBean id="bean" class="com.raochenxu.week10.StringBean" />
     <jsp:setProperty name="bean" property="message" value='<%= request.getParameter("message")%>' />
     <%
-//        com.raochenxuxu.week10.StringBean bean=new StringBean();//CHANGE with useBean -step -6
+//        com.raochenxu.week10.StringBean bean=new StringBean();//CHANGE with useBean -step -6
         //Step-4
 //        bean.setMessage("Hello Mr bean -from java code");//change with setProperty
 
