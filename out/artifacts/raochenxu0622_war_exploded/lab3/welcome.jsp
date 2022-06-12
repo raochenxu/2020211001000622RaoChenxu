@@ -12,7 +12,7 @@
     <title>Welcome</title>
 </head>
 <body>
-<h1>Author:<span style="color: red">2020211001000622-RaoChenxu</span></h1>
+<h1>Author:<span style="color: red">2020211001000622-RaoChenXu</span></h1>
 <h2>Welcome,<%-- todo 8 use c:out to print username from parammeter --%>
 <%=request.getParameter("username")%>
 </h2>

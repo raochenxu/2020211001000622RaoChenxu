@@ -12,7 +12,7 @@
     <title>Login</title>
 </head>
 <body>
-<h1>Author:<span style="color: red">2020211001000622-RaoChenxu</span></h1>
+<h1>Author:<span style="color: red">2020211001000622-RaoChenXu</span></h1>
 <%-- todo 9: use c:out to print message fron request --%>
 <%=((request.getAttribute("message")==null)?"":request.getAttribute("message"))%>
 <%--todo 1: use c:url to set url in action="validate.jsp" --%>
